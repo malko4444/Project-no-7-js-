@@ -1,4 +1,4 @@
-/*//Q-1 PROGRAM TO FIND THE MAXIMUM B/W TWO NUMBER 
+//Q-1 PROGRAM TO FIND THE MAXIMUM B/W TWO NUMBER 
 
 let n1=10
 let n2=30
@@ -241,7 +241,7 @@ if(per_comp>=90){
     console.log(`${per_comp}% your grade is "E" in computer`);
 }else {
     console.log(`${per_comp}% your grade is "F" in computer `);
-}*/
+}
 //Q-14 electricity unit charges and show amount 
 let unite1=parseInt(prompt(`Enter the unite of electricity which you want find the total bill`));
 if(unite1<=50){
